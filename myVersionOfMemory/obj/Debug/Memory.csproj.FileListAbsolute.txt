@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\bin\Debug\Memory.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\bin\Debug\Memory.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\obj\Debug\Memory.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\obj\Debug\Memory.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\OS_Project\Memory\obj\Debug\Memory.pdb
